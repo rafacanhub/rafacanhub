@@ -1,8 +1,8 @@
-# Olá! Eu sou Rafael Cândido da Cruz
+# Olá! Eu sou Rafael Candido da Cruz
 
 
 ## Sobre mim
-Sou Rafael Cândido da Cruz, estudante de Ciência da Computação na Universidade Federal de Alfenas (UNIFAL). Tenho um grande interesse pela área da tecnologia e desenvolvimento de software, e estou sempre buscando aprender e me aprimorar.
+Sou Rafael Candido da Cruz, estudante de Ciência da Computação na Universidade Federal de Alfenas (UNIFAL). Tenho um grande interesse pela área da tecnologia e desenvolvimento de software, e estou sempre buscando aprender e me aprimorar.
 
 ## Tecnologias e Interesses
 - 🌱 Atualmente aprendendo:
